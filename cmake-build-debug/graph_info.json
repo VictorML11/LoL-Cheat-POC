@@ -1,0 +1,38 @@
+{
+ "options": [
+  [
+   "librdkafka:plugins",
+   "False"
+  ],
+  [
+   "librdkafka:sasl",
+   "False"
+  ],
+  [
+   "librdkafka:shared",
+   "False"
+  ],
+  [
+   "librdkafka:ssl",
+   "False"
+  ],
+  [
+   "librdkafka:zlib",
+   "False"
+  ],
+  [
+   "librdkafka:zstd",
+   "False"
+  ],
+  [
+   "lz4:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

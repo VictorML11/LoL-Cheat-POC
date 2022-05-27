@@ -1,0 +1,5 @@
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/CMakeFiles/vmaster.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir

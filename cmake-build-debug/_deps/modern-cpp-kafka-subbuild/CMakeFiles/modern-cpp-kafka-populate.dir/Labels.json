@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/modern-cpp-kafka-populate"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/modern-cpp-kafka-populate.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/modern-cpp-kafka-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"modern-cpp-kafka-populate"
+		],
+		"name" : "modern-cpp-kafka-populate"
+	}
+}

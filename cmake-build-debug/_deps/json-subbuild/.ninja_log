@@ -1,0 +1,21 @@
+# ninja log v5
+0	159	6752605926226882	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	fa5f7e8b16c5aeb8
+1240	1299	6752605937621921	CMakeFiles/json-populate-complete	79e6aeed322c27f8
+0	159	6752605926226882	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	fa5f7e8b16c5aeb8
+160	987	6752605934506897	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	babc0acc3913b1a4
+160	987	6752605934506897	json-populate-prefix/src/json-populate-stamp/json-populate-download	babc0acc3913b1a4
+1028	1071	6752605935346922	json-populate-prefix/src/json-populate-stamp/json-populate-patch	5f817664480125fe
+1113	1155	6752605936186907	json-populate-prefix/src/json-populate-stamp/json-populate-build	6b45bcc34d8ebb24
+987	1028	6752605934916891	json-populate-prefix/src/json-populate-stamp/json-populate-update	3628f2769edb7b3b
+987	1028	6752605934916891	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	3628f2769edb7b3b
+1028	1071	6752605935346922	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	5f817664480125fe
+1071	1112	6752605935766799	json-populate-prefix/src/json-populate-stamp/json-populate-configure	591a72a8a670825a
+1071	1112	6752605935766799	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	591a72a8a670825a
+1113	1155	6752605936186907	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	6b45bcc34d8ebb24
+1155	1198	6752605936616937	json-populate-prefix/src/json-populate-stamp/json-populate-install	3b4d4a69482f22d0
+1198	1240	6752605937041928	json-populate-prefix/src/json-populate-stamp/json-populate-test	991743a9f8876b36
+1155	1198	6752605936616937	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	3b4d4a69482f22d0
+1198	1240	6752605937041928	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	991743a9f8876b36
+1240	1299	6752605937621921	json-populate-prefix/src/json-populate-stamp/json-populate-done	79e6aeed322c27f8
+1240	1299	6752605937621921	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	79e6aeed322c27f8
+1240	1299	6752605937621921	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	79e6aeed322c27f8

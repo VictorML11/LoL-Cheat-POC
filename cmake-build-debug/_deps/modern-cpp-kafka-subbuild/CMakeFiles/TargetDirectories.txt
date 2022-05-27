@@ -1,0 +1,3 @@
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/modern-cpp-kafka-populate.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,21 @@
+# ninja log v5
+0	146	6752605941631905	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-mkdir	145fed06fd0d8857
+147	1062	6752605950786495	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-download	c27b2f8e3d52a424
+1322	1383	6752605953996531	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/CMakeFiles/modern-cpp-kafka-populate-complete	6424fa79f26c282a
+1193	1236	6752605952536536	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-build	2908914698b78464
+0	146	6752605941631905	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-mkdir	145fed06fd0d8857
+147	1062	6752605950786495	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-download	c27b2f8e3d52a424
+1062	1104	6752605951216530	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-update	7ff4efb011692f8e
+1062	1104	6752605951216530	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-update	7ff4efb011692f8e
+1105	1151	6752605951676528	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-patch	3e2fbdc7c2e20e8f
+1105	1151	6752605951676528	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-patch	3e2fbdc7c2e20e8f
+1151	1193	6752605952101535	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-configure	ba584ffa5d7ad153
+1151	1193	6752605952101535	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-configure	ba584ffa5d7ad153
+1193	1236	6752605952536536	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-build	2908914698b78464
+1236	1279	6752605952966549	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-install	40dacc80c1455618
+1322	1383	6752605953996531	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-done	6424fa79f26c282a
+1236	1279	6752605952966549	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-install	40dacc80c1455618
+1280	1322	6752605953391498	modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-test	e78517c4cbb771b8
+1280	1322	6752605953391498	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-test	e78517c4cbb771b8
+1322	1383	6752605953996531	CMakeFiles/modern-cpp-kafka-populate-complete	6424fa79f26c282a
+1322	1383	6752605953996531	C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/modern-cpp-kafka-subbuild/modern-cpp-kafka-populate-prefix/src/modern-cpp-kafka-populate-stamp/modern-cpp-kafka-populate-done	6424fa79f26c282a

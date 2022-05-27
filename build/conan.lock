@@ -1,0 +1,35 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "librdkafka:plugins=False\nlibrdkafka:sasl=False\nlibrdkafka:shared=False\nlibrdkafka:ssl=False\nlibrdkafka:zlib=False\nlibrdkafka:zstd=False\nlz4:shared=False",
+    "requires": [
+     "1",
+     "2"
+    ],
+    "path": "..\\conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "lz4/1.9.3",
+    "options": "shared=False",
+    "package_id": "5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b",
+    "prev": "0",
+    "context": "host"
+   },
+   "2": {
+    "ref": "librdkafka/1.8.2",
+    "options": "plugins=False\nsasl=False\nshared=False\nssl=False\nzlib=False\nzstd=False\nlz4:shared=False",
+    "package_id": "326ddaccf0ed7759a09b586d906f23841f438239",
+    "prev": "0",
+    "requires": [
+     "1"
+    ],
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=Visual Studio\ncompiler.runtime=MD\ncompiler.version=17\nos=Windows\nos_build=Windows\n[options]\n[build_requires]\n[env]\n"
+}

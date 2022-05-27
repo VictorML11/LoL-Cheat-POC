@@ -1,0 +1,41 @@
+conan install C:/Users/VICTOR/CLionProjects/vmaster -if=C:\Users\VICTOR\CLionProjects\vmaster\cmake-build-debug -pr=default
+Configuration:
+[settings]
+arch=x86_64
+arch_build=x86_64
+build_type=Release
+compiler=Visual Studio
+compiler.runtime=MD
+compiler.version=17
+os=Windows
+os_build=Windows
+[options]
+[build_requires]
+[env]
+
+conanfile.txt: Installing package
+Requirements
+    librdkafka/1.8.2 from 'conancenter' - Cache
+    lz4/1.9.3 from 'conancenter' - Cache
+Packages
+    librdkafka/1.8.2:326ddaccf0ed7759a09b586d906f23841f438239 - Cache
+    lz4/1.9.3:5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b - Cache
+
+Installing (downloading, building) binaries...
+lz4/1.9.3: Already installed!
+librdkafka/1.8.2: Already installed!
+conanfile.txt: Generator cmake created conanbuildinfo.cmake
+conanfile.txt: Generator txt created conanbuildinfo.txt
+conanfile.txt: Aggregating env generators
+conanfile.txt: Generated conaninfo.txt
+conanfile.txt: Generated graphinfo
+C:\Users\VICTOR\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5591.52\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/VICTOR/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/ninja/win/ninja.exe -G Ninja -S C:\Users\VICTOR\CLionProjects\vmaster -B C:\Users\VICTOR\CLionProjects\vmaster\cmake-build-debug
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug
+-- Using the single-header code from C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug/_deps/json-src/single_include/
+-- modern-cpp-kafka include directory: C:/Users/VICTOR/CLionProjects/vmaster/libs/modern-cpp-kafka/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/VICTOR/CLionProjects/vmaster/cmake-build-debug

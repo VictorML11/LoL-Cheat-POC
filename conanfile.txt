@@ -1,0 +1,6 @@
+[requires]
+lz4/1.9.3
+librdkafka/1.8.2
+
+[generators]
+cmake
